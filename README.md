@@ -20,7 +20,6 @@ For machine learning, there are steps taken in Pyspark:
 
 
 Feature    Parameter  Logistic  Random Forest  Gradient Boosted Tree  Decision Tree  Naive Bayes
-
 VAM1       Accuracy   0.7881    0.7858         0.7895                 0.7889         0.6328
            
            Precision  0.6003    0              0.5788                 0.5715         0.2974
